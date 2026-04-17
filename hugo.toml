@@ -1,0 +1,4 @@
+baseURL = "https://jeffrey.netlify.app/"
+languageCode = "en-us"
+title = "Jeffrey Li"
+theme = "PaperMod"
